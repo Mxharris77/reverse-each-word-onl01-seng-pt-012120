@@ -6,8 +6,7 @@ def reverse_each_word(phrases)
      final << phrase.reverse
      
    end
-   final.join (" ")
-  puts final
-
+   final.join ("")
+ puts final
  
 end
