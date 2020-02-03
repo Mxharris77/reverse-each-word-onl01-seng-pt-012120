@@ -1,6 +1,6 @@
 def reverse_each_word(phrase)
   
-  array.each do |word|
+  phrase.each do |word|
     backwords = word.reverse
     puts backwords
   
