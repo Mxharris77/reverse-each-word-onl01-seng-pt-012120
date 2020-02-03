@@ -1,8 +1,8 @@
-def reverse_each_word(phrase)
+def reverse_each_word(phrases)
   
-   array = phrase.split
+   array = phrases.split
    final []
-   array.each do |phrase|
+   array.collect do |phrase|
      string = word.reverse
      
    end
