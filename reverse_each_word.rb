@@ -1,6 +1,7 @@
 def reverse_each_word(phrase)
   
-  puts phrase.split.reverse.join 
+   return phrase.split.reverse.join
+   
   
 
  
